@@ -1,4 +1,4 @@
-## <a name="introduction">💻 IoT Dashboard Weather Station</a>
+## <a name="introduction">💻 IoT Dashboard Light Station</a>
 
 <!-- <img src="https://github.com/rch-goldsnaker/weather-station/blob/main/public/home.png" alt="Project Banner"> -->
 
@@ -63,7 +63,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/rch-goldsnaker/weather-app
+git clone https://github.com/ahmdfauzi25/iot-dashboard.git
 cd weather-app
 ```
 
