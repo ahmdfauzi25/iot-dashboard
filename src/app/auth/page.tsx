@@ -26,7 +26,7 @@ export default async function page() {
                   Designed for versatility, our lights adapt to your needs,
                   providing the perfect ambiance wherever you go.&rdquo;
                 </p>
-                <footer className="text-sm pt-3">Made with ♡ by Mirutec</footer>
+                <footer className="text-sm pt-3">Made with ♡ by Ahzi-Dev</footer>
               </blockquote>
             </div>
           </div>
