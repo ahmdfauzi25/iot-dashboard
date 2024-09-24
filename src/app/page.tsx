@@ -1,6 +1,7 @@
 import { redirect } from "next/navigation";
 import { Footer, Header, Navbar } from "../components";
-//import SplineComponent from "../components/SplineComponent";
+import DataTableDemo from "../components/DataTable";
+import SplineComponent from "../components/SplineComponent";
 import readUserSession from "@/actions";
 
 export default async function Home() {
@@ -13,11 +14,15 @@ export default async function Home() {
       <div className="absolute w-full h-full text-white flex flex-col justify-between">
         <div className="flex flex-col">
           <Navbar />
-          {/* <Header /> */}
+          <div className="mt-8 w-[95%] mx-auto"> {/* Tambahkan mx-auto untuk posisi tengah */}
+            {/* <DataTableDemo /> */}
+          </div>
+          <Header />
         </div>
-        {/* <Footer /> */}
+        
+        <Footer />
       </div>
-      {/* <SplineComponent/> */}
+      <SplineComponent/>
     </div>
   );
 }

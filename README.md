@@ -64,7 +64,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/ahmdfauzi25/iot-dashboard.git
-cd weather-app
+cd iot-dashboard
 ```
 
 **Installation**

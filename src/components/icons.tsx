@@ -231,7 +231,7 @@ export const Icons = {
       <path d="m13 14-2 4h3l-2 4" />
     </svg>
   ),
-  wind: (props: IconProps) => (
+  volt: (props: IconProps) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 24 24"
@@ -240,14 +240,14 @@ export const Icons = {
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth={2}
-      className="icon icon-tabler icon-tabler-wind"
+      className="icon icon-tabler icon-tabler-bolt"
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" />
-      <path d="M5 8h8.5a2.5 2.5 0 1 0-2.34-3.24M3 12h15.5a2.5 2.5 0 1 1-2.34 3.24M4 16h5.5a2.5 2.5 0 1 1-2.34 3.24" />
+      <path d="M13 3v7h6l-8 11v-7H5l8-11" />
     </svg>
   ),
-  moon: (props: IconProps) => (
+  powerStatus: (props: IconProps) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 24 24"
@@ -256,11 +256,12 @@ export const Icons = {
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth={2}
-      className="icon icon-tabler icon-tabler-moon"
+      className="icon icon-tabler icon-tabler-power"
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" />
-      <path d="M12 3h.393a7.5 7.5 0 0 0 7.92 12.446A9 9 0 1 1 12 2.992z" />
+      <path d="M7 6a7.75 7.75 0 1 0 10 0" />
+      <path d="M12 4v8" />
     </svg>
   ),
   temperature: (props: IconProps) => (

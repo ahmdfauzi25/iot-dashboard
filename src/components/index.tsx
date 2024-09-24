@@ -1,3 +1,4 @@
 export * from './Navbar'
-// export * from './Header'
-// export * from './Footer'
+// export * from './DataTable'
+export * from './Header'
+export * from './Footer'
