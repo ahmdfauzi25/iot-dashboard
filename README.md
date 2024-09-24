@@ -1,6 +1,6 @@
 ## <a name="introduction">💻 IoT Dashboard Light Station</a>
 
-<!-- <img src="https://github.com/rch-goldsnaker/weather-station/blob/main/public/home.png" alt="Project Banner"> -->
+<img src="https://github.com/ahmdfauzi25/iot-dashboard/blob/main/public/home.png" alt="Project Banner">
 
 ## 📋 <a name="table">Table of Contents</a>
 
